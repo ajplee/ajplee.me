@@ -1,0 +1,48 @@
+body {
+	background-color: DimGrey;
+}
+h1 {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 85px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 10px;
+	color: white;
+	padding-top: 270px;
+}
+#_message {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 20px;
+	color: white;
+}
+#_table {
+	padding-top: 130px;
+	height: 100%;
+    width: 100%;
+    display: table;
+}
+#tableContainer {
+	vertical-align: middle;
+    display: table-cell;
+    height: 100%;
+}
+#table1 {
+	margin: 0 auto;
+	
+}
+th {
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+td {
+	font-family: 'PT Sans', sans-serif;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
